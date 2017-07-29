@@ -14,7 +14,7 @@ import (
 
 // Version returns tango's version
 func Version() string {
-	return "0.5.4.0517"
+	return "0.0.0.0001"
 }
 
 // Tango describes tango object
